@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   version="1.1"
+   id="svg303"
+   sodipodi:docname="contrast.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview305"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="10.727273"
+     inkscape:cx="6.9449153"
+     inkscape:cy="11.04661"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg303" />
+  <defs
+     id="defs3051">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#eff0f1;
+      }
+      </style>
+  </defs>
+  <path
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.25"
+     d="m 10.375,1 v 2.2656244 h 1.25 V 1 h -1.25 M 4.3593756,3.460938 3.460938,4.3593756 5.0625,6 5.960938,5.0625 4.3593756,3.460938 m 13.2812444,0 L 16.03906,5.0625 16.93751,6 18.53906,4.3593756 17.64062,3.460938 M 11,4.75 c -3.45178,0 -6.25,2.798251 -6.25,6.25 0,3.451756 2.79822,6.25 6.25,6.25 3.451784,0 6.25,-2.798244 6.25,-6.25 C 17.25,7.548251 14.451784,4.75 11,4.75 Z M 11,6 V 16 C 8.238577,16 6,13.76138 6,11 6,8.238624 8.238577,6 11,6 M 1,10.375 v 1.25 h 2.2656244 v -1.25 H 1 m 17.73438,0 v 1.25 H 21 v -1.25 z M 5.0625,16.03906 3.460938,17.64062 4.3593756,18.53906 5.960938,16.93751 5.0625,16.03906 m 11.87501,0 -0.89845,0.89845 1.60156,1.60155 0.89844,-0.89844 -1.60155,-1.60156 M 10.375,18.73438 V 21 h 1.25 v -2.26562 z"
+     class="ColorScheme-Text"
+     id="path301" />
+</svg>
