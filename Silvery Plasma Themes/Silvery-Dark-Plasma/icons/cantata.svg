@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 32 32"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="cantata.svg"
+   width="32"
+   height="32"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     pagecolor="#3a3f47"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     id="namedview14"
+     showgrid="true"
+     inkscape:zoom="10.429825"
+     inkscape:cx="15.580319"
+     inkscape:cy="16.826744"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#3a3f47">
+    <inkscape:grid
+       type="xygrid"
+       id="grid838"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3051">
+    <style
+       id="current-color-scheme"
+       type="text/css" />
+  </defs>
+  <g
+     id="cantata">
+    <path
+       id="path18"
+       d="M 0,0 V 32 H 32 V 0 Z"
+       style="fill:none" />
+    <path
+       id="Playlist"
+       class="st0"
+       d="M 19.25,16 H 3 v -5.142857 h 16.25 z m -8.125,1.714286 H 3 v 5.142857 h 8.125 z m 12.512501,2.057143 c 0.325,-0.6 0.487499,-1.328572 0.487499,-2.057143 h -4.468744 c -0.4875,0 -0.975012,0.08571 -1.462512,0.214285 -2.6,0.685715 -4.265616,3.085715 -3.696872,5.357143 0.568756,2.271429 3.168757,3.514286 5.809384,2.785715 2.640616,-0.728572 4.306245,-3.128572 3.696872,-5.357143 C 23.921832,20.371429 23.8,20.071429 23.637501,19.771429 Z"
+       style="fill:#cdd8e5;fill-opacity:0.40392157;stroke-width:0.41726" />
+    <path
+       id="Playlist-s"
+       class="st1"
+       d="M 4.6250003,9.1428571 H 3 V 7.428571 C 3,5.542857 4.4624999,4 6.2499996,4 H 19.25 V 5.714286 H 6.2499996 c -0.8937498,0 -1.6249993,0.771428 -1.6249993,1.714285 z m 20.3124997,0 H 22.500001 V 22 c 0,2.357143 -1.828129,4.285714 -4.062501,4.285714 V 28 c 3.128128,0 5.6875,-2.7 5.6875,-6 V 10.857143 h 0.8125 c 1.340629,0 2.4375,1.157143 2.4375,2.571428 H 29 C 29,11.071429 27.171872,9.1428571 24.9375,9.1428571 Z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.41726" />
+  </g>
+  <g
+     id="22-22-cantata"
+     transform="translate(32,10)">
+    <path
+       id="path11"
+       d="M 0,0 V 22 H 22 V 0 Z"
+       style="fill:none" />
+    <path
+       id="Playlist-3"
+       class="st0"
+       d="M 13.25,11 H 2 V 7.571429 H 13.25 Z M 7.6250004,12.142857 H 2 v 3.428572 h 5.6250004 z m 8.6625006,1.371429 c 0.224999,-0.4 0.337499,-0.885715 0.337499,-1.371429 h -3.09375 c -0.3375,0 -0.675,0.05714 -1.0125,0.142857 -1.800001,0.457143 -2.9531252,2.057143 -2.5593752,3.571429 C 10.353125,17.371429 12.153125,18.2 13.98125,17.714286 15.809375,17.228571 16.9625,15.628571 16.540626,14.142857 16.484378,13.914286 16.4,13.714286 16.287501,13.514286 Z"
+       style="fill:#cdd8e5;fill-opacity:0.40392157;stroke-width:0.283473" />
+    <path
+       id="Playlist-s-6"
+       class="st1"
+       d="M 3.1250002,6.428571 H 2 V 5.285714 C 2,4.028571 3.0124999,3 4.2499998,3 H 13.25 V 4.142857 H 4.2499998 c -0.6187499,0 -1.1249996,0.514286 -1.1249996,1.142857 z m 14.0624998,0 H 15.5 V 15 c 0,1.571429 -1.265625,2.857143 -2.812501,2.857143 V 19 C 14.853124,19 16.625,17.2 16.625,15 V 7.571429 h 0.5625 c 0.928126,0 1.6875,0.771428 1.6875,1.714285 H 20 C 20,7.714286 18.734375,6.428571 17.1875,6.428571 Z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.283473" />
+  </g>
+</svg>

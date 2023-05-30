@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="elisa.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <g
+     id="22-22-elisa"
+     transform="translate(32,10)">
+    <rect
+       style="opacity:0.00100002"
+       width="22"
+       height="22"
+       x="0"
+       y="0"
+       id="rect2" />
+    <path
+       id="Music-7"
+       class="st0"
+       d="M 8,7.25 C 8,6.1 8.775,5.1 9.9,4.825 L 18,2.8 v 11.5 c 0,1.375 -1.125,2.5 -2.5,2.5 -1.375,0 -2.5,-1.125 -2.5,-2.5 0,-1.375 1.125,-2.5 2.5,-2.5 H 17 V 7.05 L 8,9.3 Z M 9,13.8 H 6.5 c -1.375,0 -2.5,1.125 -2.5,2.5 0,1.375 1.125,2.5 2.5,2.5 1.375,0 2.5,-1.125 2.5,-2.5 z"
+       style="fill:#cdd8e5;fill-opacity:0.40392157;stroke-width:0.25" />
+    <path
+       id="Music-s-1"
+       class="st1"
+       d="m 18,6.8 -1,0.25 v -3 L 18,3.8 Z M 9.75,5.9 10,5.825 V 4.8 L 9.525,4.925 C 8.625,5.15 8,5.95 8,6.875 V 13.8 H 9 V 6.85 C 9,6.4 9.3,6 9.75,5.9 Z M 17,11.8 v 3.5 c 0,0.825 -0.675,1.5 -1.5,1.5 v 1 c 1.375,0 2.5,-1.125 2.5,-2.5 v -3.5 z"
+       style="fill:#8aac6c;fill-opacity:1;stroke-width:0.25" />
+  </g>
+  <g
+     id="elisa">
+    <rect
+       style="opacity:0.00100002"
+       width="32"
+       height="32"
+       x="0"
+       y="0"
+       id="rect9" />
+    <path
+       id="Music"
+       class="st0"
+       d="M 11.5,10.675 C 11.5,8.95 12.6625,7.45 14.35,7.0375 L 26.5,4 V 21.25 C 26.5,23.3125 24.8125,25 22.75,25 20.6875,25 19,23.3125 19,21.25 19,19.1875 20.6875,17.5 22.75,17.5 H 25 V 10.375 L 11.5,13.75 Z M 13,20.5 H 9.25 C 7.1875,20.5 5.5,22.1875 5.5,24.25 5.5,26.3125 7.1875,28 9.25,28 11.3125,28 13,26.3125 13,24.25 Z"
+       style="fill:#cdd8e5;fill-opacity:0.40392157;stroke-width:0.375" />
+    <path
+       id="Music-s"
+       class="st1"
+       d="M 26.5,10 25,10.375 v -4.5 L 26.5,5.5 Z M 14.125,8.65 14.5,8.5375 V 7 L 13.7875,7.1875 C 12.4375,7.525 11.5,8.725 11.5,10.1125 V 20.5 H 13 V 10.075 C 13,9.4 13.45,8.8 14.125,8.65 Z M 25,17.5 v 5.25 C 25,23.9875 23.9875,25 22.75,25 v 1.5 c 2.0625,0 3.75,-1.6875 3.75,-3.75 V 17.5 Z"
+       style="fill:#8aac6c;fill-opacity:1;stroke-width:0.375" />
+  </g>
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20">
+    <linearGradient
+       x1="0"
+       x2="0"
+       y1="0"
+       y2="16"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5000005,0,0,1.5000005,3.999991,4.0000002)"
+       id="linearGradient9">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20" />
+    </linearGradient>
+    <linearGradient
+       x1="544.59967"
+       x2="544.59967"
+       y1="163.21237"
+       y2="176.77766"
+       gradientTransform="matrix(0.90654316,0,0,1.1030914,-485.25312,-172.13817)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient13">
+      <stop
+         offset="0%"
+         style="stop-color:#303b3d; stop-opacity:1"
+         id="stop18-6" />
+      <stop
+         offset="100%"
+         style="stop-color:#bc985d; stop-opacity:1"
+         id="stop20-7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#3a3f47"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1002"
+     id="namedview18"
+     showgrid="true"
+     inkscape:zoom="9.8125"
+     inkscape:cx="18.802548"
+     inkscape:cy="23.796178"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     inkscape:lockguides="true"
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="true"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#3a3f47">
+    <inkscape:grid
+       type="xygrid"
+       id="grid907"
+       originx="0"
+       originy="0" />
+  </sodipodi:namedview>
+  <g
+     id="g4"
+     transform="matrix(0.52861192,0,0,0.52861192,30.213835,-2.620193)" />
+  <g
+     id="g10"
+     transform="matrix(0.52861192,0,0,0.52861192,30.213835,-2.620193)">
+    <g
+       id="g8" />
+  </g>
+  <g
+     id="g4-3"
+     transform="matrix(0.35240646,0,0,0.35240646,52.475859,8.5866108)" />
+</svg>

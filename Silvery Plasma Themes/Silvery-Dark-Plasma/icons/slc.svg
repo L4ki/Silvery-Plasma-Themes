@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 22 22"
+   id="svg"
+   version="1.1"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   width="22"
+   height="22"
+   sodipodi:docname="slc.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs81">
+    <style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }
+</style>
+  </defs>
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#b2b2b2"
+     bordercolor="#000000"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="4.9269376"
+     inkscape:cx="28.212251"
+     inkscape:cy="49.219215"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg"
+     borderlayer="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true"
+     inkscape:pagecheckerboard="0"
+     inkscape:showpageshadow="false"
+     inkscape:lockguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3046"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#0000ff"
+       opacity="0.03921569"
+       empcolor="#0000ff"
+       empopacity="0.07843137"
+       originx="0"
+       originy="40" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.454545,-39.136364"
+       id="guide3820"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.5,-39.863636"
+       id="guide3822"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="0.5,-39.112099"
+       id="guide3824"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0.5,-39.5"
+       id="guide3826"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <g
+     id="slc-share"
+     transform="translate(40,40)">
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect3833"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
+    <path
+       id="Share"
+       class="st0"
+       d="m 0.75,4.5714286 h 18 V 5.2142857 L 20.035714,7.1428571 18.75,9.071429 V 15.5 c 0,1.767857 -1.446429,3.214286 -3.214286,3.214286 H 0.75 Z"
+       style="opacity:1;fill:#cdd8e5;fill-opacity:0.403922;stroke-width:0.321429;enable-background:new" />
+    <path
+       id="Share-s"
+       class="st1"
+       d="m 16.178571,2 5.142858,5.1428571 -5.142858,5.1428569 -0.9,-0.9 3.567858,-3.5999997 h -5.882143 c -4.628572,0 -8.357143,3.7285717 -8.357143,8.3571427 H 3.321429 C 3.321429,10.807143 7.628571,6.5 12.964286,6.5 h 5.914285 l -3.6,-3.6 z M 18.75,16.142857 v -2.571428 h -1.285714 v 2.571428 c 0,1.414286 -1.157143,2.571429 -2.571429,2.571429 H 2.035714 V 20 H 14.892857 C 17.014286,20 18.75,18.264286 18.75,16.142857 Z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.321429" />
+  </g>
+  <g
+     id="slc-connect"
+     transform="translate(0,40)">
+    <rect
+       style="fill:#ffffff;fill-opacity:0;stroke:none"
+       id="rect3009"
+       width="22"
+       height="22"
+       x="0"
+       y="0" />
+    <path
+       id="Connector"
+       class="st0"
+       d="M 17.553125,10.803125 16.23125,12.125 9.875,5.76875 11.196875,4.446875 c 1.74375,-1.74375 4.6125,-1.74375 6.35625,0 1.74375,1.74375 1.771875,4.6125 0,6.35625 z M 12.0125,16.34375 5.65625,9.9875 4.446875,11.196875 c -1.74375,1.74375 -1.74375,4.6125 0,6.35625 1.74375,1.74375 4.6125,1.74375 6.35625,0 z"
+       style="opacity:1;fill:#cdd8e5;fill-opacity:0.403922;stroke-width:0.28125;enable-background:new" />
+    <path
+       id="Connector-s"
+       class="st1"
+       d="M 20,2.7875 17.91875,4.86875 C 17.80625,4.728125 17.69375,4.5875 17.553125,4.446875 17.4125,4.30625 17.271875,4.19375 17.13125,4.08125 L 19.2125,2 Z M 7.653125,11.95625 10.071875,9.5375 9.284375,8.75 6.865625,11.16875 Z M 4.08125,17.13125 2,19.2125 2.7875,20 4.165625,18.621875 C 6.134375,19.859375 8.75,19.60625 10.4375,17.91875 L 11.28125,17.075 10.49375,16.2875 9.65,17.13125 c -1.546875,1.546875 -4.05,1.546875 -5.56875,0 z m 6.75,-1.96875 2.41875,-2.41875 -0.7875,-0.7875 -2.41875,2.41875 z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.28125" />
+  </g>
+  <g
+     id="slc-like">
+    <rect
+       y="0"
+       x="0"
+       height="22"
+       width="22"
+       id="rect3791"
+       style="fill:#ffffff;fill-opacity:0;stroke:none" />
+    <path
+       class="st0"
+       d="m 19.713855,3.6144578 c -2.15261,-2.1526104 -5.62249,-2.1526104 -7.7751,0 L 11.039157,4.5140562 10.139558,3.6144578 c -2.1526102,-2.1526104 -5.6224897,-2.1526104 -7.7751002,0 -2.15261041,2.1526105 -2.15261041,5.5903615 0,7.7429722 L 11.039157,20 19.713855,11.35743 c 2.152611,-2.1526107 2.152611,-5.5903617 0,-7.7429722 z M 6.5411647,4.6104418 H 6.2198795 c -0.5783132,0 -1.124498,0.1606425 -1.6064257,0.4819277 C 4.1315261,5.4136546 3.7781124,5.8634538 3.5532128,6.37751 3.3283133,6.8915663 3.2640562,7.502008 3.3925703,8.0481928 3.5210843,8.5943775 3.7781124,9.1084337 4.1957831,9.5261044 L 3.2961847,10.425703 C 2.685743,9.815261 2.3002008,9.0763052 2.1395582,8.2730924 1.9789157,7.4698795 2.0431727,6.6345381 2.3644578,5.8634538 2.685743,5.0923695 3.1997992,4.4497992 3.9066265,4 4.5813253,3.5502008 5.3845381,3.2931727 6.2198795,3.2931727 h 0.3212852 z"
+       id="path4"
+       style="fill:#cdd8e5;fill-opacity:0.403922;stroke-width:0.321285" />
+    <path
+       id="Heart-s"
+       class="st1"
+       d="M 20.035141,8.0803213 V 7.1485944 h 1.28514 v 0.9317269 c 0,2.2168677 -0.86747,4.3373497 -2.441767,5.9116467 L 12.838353,20 11.938755,19.100402 17.978916,13.092369 c 1.317269,-1.349397 2.056225,-3.1485939 2.056225,-5.0120477 z"
+       style="fill:#eff0f1;fill-opacity:1;stroke-width:0.321285" />
+  </g>
+</svg>
