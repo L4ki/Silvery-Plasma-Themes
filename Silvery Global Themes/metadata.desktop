@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=Silvery Dark Global Theme by l4k1
+Name=Silvery-Dark-Global
+X-KDE-PluginInfo-Author=l4k1
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=Silvery-Dark-Global
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/2044657,kns://colorschemes.knsrc/api.kde-look.org/2044656,kns://plasma-themes.knsrc/api.kde-look.org/2044662,kns://icons.knsrc/api.kde-look.org/2044661,kns://icons.knsrc/api.kde-look.org/2011598,kns://aurorae.knsrc/api.kde-look.org/2044660,kns://aurorae.knsrc/api.kde-look.org/2044659,kns://aurorae.knsrc/api.kde-look.org/2044658,kns://wallpaper.knsrc/api.kde-look.org/2044645,kns://wallpaper.knsrc/api.kde-look.org/2044642,kns://wallpaper.knsrc/api.kde-look.org/2044643,kns://sddmtheme.knsrc/api.kde-look.org/2044654
