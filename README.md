@@ -24,5 +24,5 @@ Download:
 
 
 
-Screenshots "Sinvery-Dark-Plasma":
+Screenshots "Silvery-Dark-Plasma":
 ---------------------------------
