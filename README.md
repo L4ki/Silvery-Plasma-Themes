@@ -36,3 +36,22 @@ Screenshots "Silvery-Dark-Plasma":
 ![4](https://github.com/L4ki/Silvery-Plasma-Themes/assets/45247573/c58d8f75-de9d-477c-a717-6bd20c3fc9b9)
 
 ![5](https://github.com/L4ki/Silvery-Plasma-Themes/assets/45247573/bc330728-4492-4d2c-8914-af5c0cea46ac)
+
+Changelog: 07.06.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: tab-up-active.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: veracrypt.svg
+
