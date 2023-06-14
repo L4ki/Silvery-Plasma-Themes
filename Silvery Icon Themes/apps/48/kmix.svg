@@ -22,11 +22,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="4.9166667"
-     inkscape:cx="-8.4406779"
-     inkscape:cy="24.305085"
+     inkscape:zoom="9.8333334"
+     inkscape:cx="27.610169"
+     inkscape:cy="35.644068"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="998"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -453,13 +453,13 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#c-1-1"
+       xlink:href="#linearGradient1224"
        id="linearGradient1187-6-6"
        gradientUnits="userSpaceOnUse"
        y1="537.79999"
        x2="0"
        y2="538.79999"
-       gradientTransform="translate(-377.46992,-496.86388)" />
+       gradientTransform="translate(-379.9106,-496.85898)" />
     <linearGradient
        id="c-1-1"
        y1="537.79999"
@@ -491,7 +491,7 @@
          id="stop859" />
     </linearGradient>
     <linearGradient
-       xlink:href="#c-1-1"
+       xlink:href="#linearGradient1224"
        id="d-2-9"
        y1="539.79999"
        y2="538.79999"
@@ -534,17 +534,17 @@
        y2="39" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#b-6"
+       xlink:href="#c"
        id="linearGradient1107"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(4.0000025,4.0000002)"
+       gradientTransform="translate(4.0000025,3.5999987)"
        x1="9.5999975"
        y1="37.299999"
        x2="13.599998"
        y2="37.299999" />
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#b-6"
+       xlink:href="#c"
        id="linearGradient1109"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(4.0000025,4.0000002)"
@@ -600,11 +600,11 @@
      width="30"
      x="13"
      y="13"
-     fill="#26333a"
      rx="15"
      height="30"
      stroke-width="0.094"
-     id="rect35-3-7" />
+     id="rect35-3-7"
+     style="fill:#96a0b5;fill-opacity:1" />
   <rect
      width="28"
      x="14"
@@ -627,28 +627,28 @@
      width="10"
      x="23"
      y="23"
-     fill="#26333a"
      rx="5"
      height="10"
      stroke-width="0.1"
-     id="rect41-9-2" />
+     id="rect41-9-2"
+     style="fill:#96a0b5;fill-opacity:1" />
   <rect
      width="4"
      x="13.599998"
-     y="39.299999"
+     y="38.900002"
      rx="2"
      height="4"
      stroke-width="0.286"
      id="rect45-2-2"
      style="fill:url(#linearGradient1107);fill-opacity:1" />
   <circle
-     cx="17.200096"
-     cy="41.4361"
+     cx="14.759418"
+     cy="41.441002"
      r="0.5"
      stroke-linecap="square"
      stroke-width="0.1"
      id="circle47-2-8"
-     style="fill:url(#linearGradient1187-6-6)" />
+     style="fill:url(#linearGradient1187-6-6);fill-opacity:1" />
   <rect
      width="4"
      x="37.900005"
@@ -657,7 +657,7 @@
      height="4"
      stroke-width="0.286"
      id="rect49-8-9"
-     style="fill:url(#linearGradient1109);fill-opacity:1" />
+     style="fill:url(#linearGradient1109);fill-opacity:1.0" />
   <circle
      cx="40.600018"
      cy="-41.799999"
@@ -666,5 +666,5 @@
      stroke-width="0.1"
      transform="scale(1,-1)"
      id="circle51-9-7"
-     style="fill:url(#d-2-9)" />
+     style="fill:url(#d-2-9);fill-opacity:1.0" />
 </svg>
