@@ -55,3 +55,21 @@ Plasma Theme
 
 Added icon: veracrypt.svg
 
+Changelog: 14.06.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: tab-up.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: lutris.svg
+
