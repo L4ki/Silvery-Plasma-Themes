@@ -73,3 +73,26 @@ Plasma Theme
 
 Added icon: lutris.svg
 
+Changelog: 21.06.2023
+----------------------
+
+Aurorae Themes
+---------------
+
+Update: Auroraerc
+
+GTK Theme
+---------
+
+Update: border.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update: metadata.desktop
+
