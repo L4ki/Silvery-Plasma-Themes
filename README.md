@@ -96,3 +96,21 @@ Plasma Theme
 
 Update: metadata.desktop
 
+Changelog: 28.06.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: progressbar-horz.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: desktop.svg
+
