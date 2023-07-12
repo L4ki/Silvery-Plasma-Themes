@@ -132,7 +132,7 @@ Plasma Theme
 
 Update widget: slider.svg
 
-Changelog: 05.07.2023
+Changelog: 12.07.2023
 ----------------------
 
 GTK Theme
