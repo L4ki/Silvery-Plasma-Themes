@@ -150,3 +150,21 @@ Plasma Theme
 
 Added icon: corectrl.svg
 
+Changelog: 19.07.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: bullet-symbolic.svg
+
+Icons
+-----
+
+Update icons: places 64
+
+Plasma Theme
+------------
+
+Update widget: translucentbackground.svg
+
