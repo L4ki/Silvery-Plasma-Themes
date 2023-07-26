@@ -168,3 +168,21 @@ Plasma Theme
 
 Update widget: translucentbackground.svg
 
+Changelog: 26.07.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: dash-symbolic.svg
+
+Icons
+-----
+
+Added new icons: apps 32
+
+Plasma Theme
+------------
+
+Update widget: switch.svg
+
