@@ -184,5 +184,5 @@ Added new icons: apps 32
 Plasma Theme
 ------------
 
-Update widget: switch.svg
+Added widget: switch.svg
 
