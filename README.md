@@ -204,3 +204,21 @@ Plasma Theme
 
 Added icon: plasma.svg
 
+Changelog: 09.08.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: checkbox-checked.png
+
+Icons
+-----
+
+Added new icons: apps 32. 48
+
+Plasma Theme
+------------
+
+Added icon: zoom.svg
+
