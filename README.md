@@ -258,4 +258,22 @@ Plasma Theme
 
 Added icon: distribute.svg
 
+Changelog: 30.08.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: border.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: image.svg
+
 
