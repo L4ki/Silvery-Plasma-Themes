@@ -314,3 +314,22 @@ Plasma Theme
 Update widget : lineedit.svg
 
 
+Changelog: 20.09.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: frame.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: action-overlays.svg
+
+
