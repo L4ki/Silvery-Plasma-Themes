@@ -333,3 +333,21 @@ Plasma Theme
 Update widget: action-overlays.svg
 
 
+Changelog: 27.09.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: frame-inline.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: actionbutton.svg
+
