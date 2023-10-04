@@ -351,3 +351,22 @@ Plasma Theme
 
 Update widget: actionbutton.svg
 
+
+Changelog: 04.10.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: menu-border.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: kup.svg
+
