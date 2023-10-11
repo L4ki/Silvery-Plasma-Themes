@@ -370,3 +370,21 @@ Plasma Theme
 
 Added icon: kup.svg
 
+
+Changelog: 11.10.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: focus.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Added icon: transform.svg
