@@ -481,3 +481,22 @@ Plasma Theme
 ------------
 
 Added icon: widget.svg
+
+
+Changelog: 24.11.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: progressbar-horz-trough.png
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: button.svg
