@@ -500,3 +500,22 @@ Plasma Theme
 ------------
 
 Update widget: button.svg
+
+
+Changelog: 01.12.2023
+----------------------
+
+GTK Theme
+---------
+
+Update: styles
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update icon: widget.svg
