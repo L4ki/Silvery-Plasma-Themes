@@ -550,3 +550,8 @@ Plasma Theme
 ------------
 
 Update widget: arrows.svg
+
+Aurorae Themes
+---------------
+
+Update: shade.svg
