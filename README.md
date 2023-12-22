@@ -555,3 +555,27 @@ Aurorae Themes
 ---------------
 
 Update: shade.svg
+
+
+Changelog: 22.12.2023
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 32, 48
+
+Plasma Theme
+------------
+
+Update widget: clock.svg
+
+Aurorae Themes
+---------------
+
+Update: restore.svg
+
+GTK Theme
+----------
+
+Update: checkbox-checked.png
