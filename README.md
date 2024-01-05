@@ -602,3 +602,16 @@ GTK Theme
 ----------
 
 Update: gtk-4.0
+
+Changelog: 05.01.2024.
+----------------------
+
+Icons
+-----
+
+Added new icons: apps 48
+
+Plasma Theme
+------------
+
+Update widget: action-overlays.svg
