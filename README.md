@@ -44,6 +44,11 @@ _____________________________________
 Changelog: 27.01.2024.
 ----------------------
 
+GTK Theme
+---------
+
+Update: checkbox-unchecked-insensitive.png
+
 Aurorae Themes
 --------------
 
