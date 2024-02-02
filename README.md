@@ -41,18 +41,18 @@ _____________________________________
 
 
 
-Changelog: 27.01.2024.
+Changelog: 03.02.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: checkbox-unchecked-insensitive.png
+Update: main.rc
 
 Aurorae Themes
 --------------
 
-Update: alldesktops.svg
+Update: keepbelow.svg
 
 Icons
 -----
@@ -62,4 +62,4 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: toolbar.svg
+Update: colors
