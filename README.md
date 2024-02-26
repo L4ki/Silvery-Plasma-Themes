@@ -41,18 +41,18 @@ _____________________________________
 
 
 
-Changelog: 19.02.2024.
+Changelog: 26.02.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: hacks.rc
 
 Aurorae Themes
 --------------
 
-Update: keepabove.svg
+Update: help.svg
 
 Icons
 -----
@@ -62,4 +62,4 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Added icon: dropbox.svg
+Update widget: busywidget.svg
