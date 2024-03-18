@@ -41,18 +41,18 @@ _____________________________________
 
 
 
-Changelog: 11.03.2024.
+Changelog: 17.03.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: styles
+Update: handle.png
 
 Aurorae Themes
 --------------
 
-Update: metadata.destop
+Update: Auroraerc
 
 Icons
 -----
@@ -62,4 +62,4 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: clock.svg
+Update widget: listitem.svg
