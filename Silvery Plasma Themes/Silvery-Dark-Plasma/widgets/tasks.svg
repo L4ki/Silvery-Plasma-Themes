@@ -26,21 +26,21 @@
 </style>
   <sodipodi:namedview
      id="base"
-     pagecolor="#3a3f47"
+     pagecolor="#373c43"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710692"
-     inkscape:cx="446.8914"
-     inkscape:cy="402.34368"
+     inkscape:zoom="0.7071069"
+     inkscape:cx="446.89141"
+     inkscape:cy="275.06449"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="946"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="50"
      inkscape:window-maximized="1"
      inkscape:snap-bbox="true"
      inkscape:snap-text-baseline="true"
@@ -20494,61 +20494,6 @@
          style="display:inline;overflow:visible;visibility:visible;opacity:1;fill:#926ee4;fill-opacity:0.15000001;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none" />
     </g>
     <g
-       id="west-normal-hint-top-margin"
-       transform="translate(-80,27.999989)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         id="hover-hint-left-margin-0-1-1"
-         width="1.0000004"
-         height="5"
-         x="657.36218"
-         y="-230"
-         inkscape:label="#hover-hint-left-margin"
-         transform="rotate(90)" />
-    </g>
-    <g
-       id="west-normal-hint-bottom-margin"
-       transform="translate(-80,2.9999809)"
-       style="fill:#008080;opacity:0.01">
-      <rect
-         y="-230"
-         x="731.36218"
-         height="5"
-         width="0.99999958"
-         id="hover-hint-right-margin-9-6-9"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         inkscape:label="#hover-hint-right-margin"
-         transform="rotate(90)" />
-    </g>
-    <g
-       id="west-normal-hint-right-margin"
-       transform="translate(-102,10.999987)"
-       style="fill:#008080;opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         id="hover-hint-top-margin-6-2-9"
-         width="5"
-         height="1"
-         x="697.36218"
-         y="-275"
-         inkscape:label="#hover-hint-top-margin"
-         transform="rotate(90)" />
-    </g>
-    <g
-       id="west-normal-hint-left-margin"
-       transform="translate(-67,12.999987)">
-      <rect
-         y="-190"
-         x="694.36218"
-         height="1"
-         width="5"
-         id="hover-hint-bottom-margin-3-6-1"
-         style="opacity:0.01;fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         inkscape:label="#hover-hint-bottom-margin"
-         transform="rotate(90)" />
-    </g>
-    <g
        transform="rotate(-90,487.50006,369.8622)"
        id="focus-center-2-6"
        style="opacity:0.01">
@@ -20757,58 +20702,6 @@
          id="path24378-9-2-6-2-3-4-2"
          d="m 714.00006,665.36217 v 1 h 39.99999 v -1 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0f131a;fill-opacity:0.60000002;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
-    </g>
-    <g
-       id="east-normal-hint-bottom-margin"
-       transform="translate(0,12.000038)"
-       style="opacity:0.01">
-      <rect
-         y="730"
-         x="-723.36218"
-         height="5"
-         width="1"
-         id="focus-hint-left-margin-4-6"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         transform="rotate(-90)" />
-    </g>
-    <g
-       id="#east-normal-hint-top-margin"
-       transform="translate(-1,35.00004)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         id="focus-hint-right-margin-3-5"
-         width="1"
-         height="5"
-         x="-651.36218"
-         y="731"
-         transform="rotate(-90)" />
-    </g>
-    <g
-       id="g5962"
-       transform="translate(13,20.000024)"
-       style="opacity:0.01">
-      <rect
-         y="696"
-         x="-692.36218"
-         height="0.99999738"
-         width="5"
-         id="focus-hint-top-margin-0-4"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         transform="rotate(-90)" />
-    </g>
-    <g
-       id="east-normal-hint-right-margin"
-       transform="translate(-15.999973,18.000019)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         id="focus-hint-bottom-margin-7-6"
-         width="5"
-         height="1.0000026"
-         x="-694.36224"
-         y="-775.99994"
-         transform="matrix(-5.3526234e-8,-1,-1,5.3526234e-8,0,0)" />
     </g>
     <g
        transform="rotate(-90,521.00006,403.3622)"
@@ -21275,58 +21168,6 @@
          id="path24378-9-2-6-2-3-1"
          d="m 315.99998,636.36217 h 1 v -39.99999 h -1 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0f131a;fill-opacity:0.60000002;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;opacity:0.01" />
-    </g>
-    <g
-       id="north-focus-hint-right-margin"
-       transform="translate(-43,24.000013)"
-       style="opacity:0.01">
-      <rect
-         y="-617.36218"
-         x="-410"
-         height="5"
-         width="1"
-         id="focus-hint-left-margin-5"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         transform="scale(-1)" />
-    </g>
-    <g
-       id="north-focus-hint-left-margin"
-       transform="translate(310,606.36219)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213;opacity:0.01"
-         id="focus-hint-right-margin-5"
-         width="1"
-         height="5"
-         x="-8"
-         y="-35"
-         transform="scale(-1)" />
-    </g>
-    <g
-       id="north-focus-hint-bottom-margin"
-       transform="translate(311,590.36219)"
-       style="opacity:0.01">
-      <rect
-         y="-75"
-         x="-34"
-         height="0.99999738"
-         width="5"
-         id="focus-hint-top-margin-4"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213;opacity:0.01"
-         transform="scale(-1)" />
-    </g>
-    <g
-       id="north-focus-hint-top-margin"
-       transform="translate(309,612.16219)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         id="focus-hint-bottom-margin-76"
-         width="5"
-         height="1.0000026"
-         x="-35.5"
-         y="1.19997"
-         transform="scale(-1,1)" />
     </g>
     <g
        transform="rotate(180,244.5,731.86218)"
@@ -21797,58 +21638,6 @@
          id="path24378-9-2-6-2-3-1-5"
          d="m 315.99998,706.36216 h 1 v -39.99999 h -1 z"
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#0f131a;fill-opacity:0.60000002;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none" />
-    </g>
-    <g
-       id="north-normal-hint-right-margin"
-       transform="translate(-28,24.000013)"
-       style="opacity:0.01">
-      <rect
-         y="-687.36218"
-         x="-395"
-         height="5"
-         width="1"
-         id="focus-hint-left-margin-5-7"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         transform="scale(-1)" />
-    </g>
-    <g
-       id="north-normal-hint-left-margin"
-       transform="translate(22,24.000013)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         id="focus-hint-right-margin-5-5"
-         width="1"
-         height="5"
-         x="-296"
-         y="-687.36218"
-         transform="scale(-1)" />
-    </g>
-    <g
-       id="north-normal-hint-bottom-margin"
-       transform="translate(0,8.0000046)"
-       style="opacity:0.01">
-      <rect
-         y="-727.36218"
-         x="-345"
-         height="0.99999738"
-         width="5"
-         id="focus-hint-top-margin-4-9"
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447213"
-         transform="scale(-1)" />
-    </g>
-    <g
-       id="north-normal-hint-top-margin"
-       transform="translate(0,33.00001)"
-       style="opacity:0.01">
-      <rect
-         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447214"
-         id="focus-hint-bottom-margin-76-7"
-         width="5"
-         height="1.0000026"
-         x="-345"
-         y="651.36212"
-         transform="scale(-1,1)" />
     </g>
     <g
        transform="rotate(180,244.5,696.86218)"
@@ -23813,6 +23602,102 @@
          transform="rotate(-90)"
          ry="1"
          rx="0.99998534" />
+    </g>
+    <g
+       id="north-normal-hint-right-margin"
+       transform="matrix(4,0,0,0.8,-1169,-2.527602)"
+       style="stroke-width:0.559015">
+      <rect
+         y="-687.36218"
+         x="-395"
+         height="5"
+         width="1"
+         id="focus-hint-left-margin-5-7"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.249999"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="north-normal-hint-left-margin"
+       transform="matrix(4,0,0,0.8,-822,-2.527602)"
+       style="stroke-width:0.559015">
+      <rect
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25"
+         id="focus-hint-right-margin-5-5"
+         width="1"
+         height="5"
+         x="-296"
+         y="-687.36218"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="north-normal-hint-bottom-margin"
+       transform="matrix(0.8,0,0,4.0000105,110,-2337.0941)"
+       style="stroke-width:0.559015">
+      <rect
+         y="-727.36218"
+         x="-345"
+         height="0.99999738"
+         width="5"
+         id="focus-hint-top-margin-4-9"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25"
+         transform="scale(-1)" />
+    </g>
+    <g
+       id="north-normal-hint-top-margin"
+       transform="matrix(0.8,0,0,3.9999895,110,-2090.0797)"
+       style="stroke-width:0.559016">
+      <rect
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.25"
+         id="focus-hint-bottom-margin-76-7"
+         width="5"
+         height="1.0000026"
+         x="-345"
+         y="652.36218"
+         transform="scale(-1,1)" />
+    </g>
+    <rect
+       inkscape:label="#west-normal-hint-top-margin"
+       y="-60.1609"
+       x="685.45911"
+       height="5"
+       width="4"
+       id="west-normal-hint-top-margin"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999987"
+       transform="rotate(90)" />
+    <rect
+       inkscape:label="#west-normal-hint-bottom-margin"
+       style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999971"
+       id="west-normal-hint-bottom-margin"
+       width="4"
+       height="5"
+       x="728.08429"
+       y="-60.1609"
+       transform="rotate(90)" />
+    <g
+       id="east-normal-hint-bottom-margin"
+       transform="matrix(1,0,0,4,197.73003,-2165.2163)"
+       style="stroke-width:0.499999">
+      <rect
+         y="730"
+         x="-723.36218"
+         height="4"
+         width="1"
+         id="focus-hint-left-margin-4-6"
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       id="east-normal-hint-top-margin"
+       style="stroke-width:1"
+       transform="translate(197.73003,-10.130091)">
+      <rect
+         style="fill:#008080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.447215"
+         id="focus-hint-right-margin-3-5"
+         width="4"
+         height="4"
+         x="-689.3623"
+         y="729.99994"
+         transform="rotate(-90)" />
     </g>
   </g>
 </svg>
