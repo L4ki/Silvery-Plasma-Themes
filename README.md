@@ -41,18 +41,18 @@ _____________________________________
 
 
 
-Changelog: 18.03.2024.
+Changelog: 25.03.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: handle.png
+Update: gtk-4.0
 
 Aurorae Themes
 --------------
 
-Update: Auroraerc
+Update: metadara.desktop
 
 Icons
 -----
@@ -62,4 +62,4 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: listitem.svg
+Update widget: tasks.svg
