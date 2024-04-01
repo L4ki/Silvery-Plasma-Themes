@@ -1,0 +1,37 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Silvery-Dark-Global-6",
+        "Description": "Silvery-Dark Global Theme by l4k1",
+        "Id": "Silvery-Dark-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/Silvery-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://window-decorations.knsrc/api.kde-look.org/2044657",
+        "kns://window-decorations.knsrc/api.kde-look.org/2044656",
+        "kns://window-decorations.knsrc/api.kde-look.org/2133852",
+        "kns://colorschemes.knsrc/api.kde-look.org/2044657",
+        "kns://colorschemes.knsrc/api.kde-look.org/2044656",
+        "kns://icons.knsrc/api.kde-look.org/2044661",
+        "kns://icons.knsrc/api.kde-look.org/2011598",
+        "kns://icons.knsrc/api.kde-look.org/2136240",
+        "kns://icons.knsrc/api.kde-look.org/2137690",
+        "kns://plasma-themes.knsrc/api.kde-look.org/2044662",
+        "kns://wallpaper.knsrc/api.kde-look.org/2044645",
+        "kns://wallpaper.knsrc/api.kde-look.org/2044642",
+        "kns://wallpaper.knsrc/api.kde-look.org/2044643"
+    ]
+}
