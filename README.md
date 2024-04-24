@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 08.04.2024.
+Changelog: 24.04.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtkrc
+Update: main.rc
 
 Aurorae Themes
 --------------
@@ -57,7 +57,7 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 48
+Update icons: places
 
 Plasma Theme
 ------------
