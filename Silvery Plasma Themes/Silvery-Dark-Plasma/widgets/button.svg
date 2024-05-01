@@ -5,7 +5,7 @@
    version="1"
    id="svg270"
    sodipodi:docname="button.svg"
-   inkscape:version="1.3.1 (91b66b0783, 2023-11-16)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -19,18 +19,18 @@
 </style>
   <sodipodi:namedview
      id="namedview272"
-     pagecolor="#2e3238"
+     pagecolor="#23262a"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      inkscape:pagecheckerboard="true"
      showgrid="true"
-     inkscape:zoom="2.8572517"
-     inkscape:cx="114.79563"
-     inkscape:cy="42.873367"
+     inkscape:zoom="4.0407641"
+     inkscape:cx="91.814318"
+     inkscape:cy="40.215166"
      inkscape:window-width="1920"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -38,7 +38,7 @@
      showguides="true"
      inkscape:lockguides="true"
      inkscape:showpageshadow="true"
-     inkscape:deskcolor="#32373e">
+     inkscape:deskcolor="#22262a">
     <inkscape:grid
        type="xygrid"
        id="grid8101"
@@ -972,7 +972,7 @@
      transform="translate(30,1)">
     <rect
        id="rect6969-4"
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        width="6"
        height="6"
        x="7"
@@ -990,7 +990,7 @@
        y="0"
        id="rect159-7" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -58,2 c -3,0 -5,2 -5,5 v 0 0 0 h 5 z"
        id="path161-1"
        sodipodi:nodetypes="ccccccc"
@@ -1013,7 +1013,7 @@
        y="0"
        id="rect109-7" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -58,2 h 6 v 5 h -6 z"
        id="path111-2"
        class="ColorScheme-Highlight" />
@@ -1038,7 +1038,7 @@
        y="0"
        id="rect164-0" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -52,2 c 3,0 5,2 5,5 v 0 0 h 2e-6 -5 z"
        id="path166-6"
        sodipodi:nodetypes="ccccccc"
@@ -1061,7 +1061,7 @@
        y="7"
        id="rect114-9" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -63,6.9999995 h 5 v 5.9999995 h -5 z"
        id="path116-4"
        class="ColorScheme-Highlight" />
@@ -1086,7 +1086,7 @@
        y="7"
        id="rect120-1" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -52,7.0000009 5,2.4e-6 V 13 l -5,-2e-6 z"
        id="path122-7"
        class="ColorScheme-Highlight" />
@@ -1111,7 +1111,7 @@
        y="13"
        id="rect169-1" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -58,18 c -3,0 -5,-2 -5,-5 v 0 0 0 h 5 z"
        id="path171-5"
        sodipodi:nodetypes="ccccccc"
@@ -1134,7 +1134,7 @@
        y="13"
        id="rect174-7" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -52,18 c 3,0 5,-2 5,-5 h -4.999998 z"
        id="path176-6"
        sodipodi:nodetypes="cccc"
@@ -1157,7 +1157,7 @@
        y="13"
        id="rect125-5" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.25098041"
+       style="fill:#5c89ba;fill-opacity:0.25098"
        d="m -58,18 h 6 v -5 h -6 z"
        id="path127-6"
        class="ColorScheme-Highlight" />
@@ -1215,7 +1215,7 @@
      transform="translate(30,1)">
     <rect
        id="rect6969-0-7"
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        width="6"
        height="6"
        x="109"
@@ -1233,7 +1233,7 @@
        y="0"
        id="rect159-8-7" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 109,2 c -3,0 -5,2 -5,5 v 0 0 0 h 5 z"
        id="path161-7-2"
        sodipodi:nodetypes="ccccccc"
@@ -1256,7 +1256,7 @@
        y="0"
        id="rect109-2-2" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 109,2 h 6 v 5 h -6 z"
        id="path111-7-6"
        class="ColorScheme-Highlight" />
@@ -1281,7 +1281,7 @@
        y="0"
        id="rect164-6-6" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 115,2 c 3,0 5,2 5,5 v 0 0 0 h -5 z"
        id="path166-1-1"
        sodipodi:nodetypes="ccccccc"
@@ -1304,7 +1304,7 @@
        y="7"
        id="rect114-1-4" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 104,6.9999995 h 5 v 5.9999995 h -5 z"
        id="path116-5-9"
        class="ColorScheme-Highlight" />
@@ -1329,7 +1329,7 @@
        y="7"
        id="rect120-9-1" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 115,7.0000009 5,2.4e-6 V 13 l -5,-2e-6 z"
        id="path122-0-7"
        class="ColorScheme-Highlight" />
@@ -1354,7 +1354,7 @@
        y="13"
        id="rect169-7-1" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 109,18 c -3,0 -5,-2 -5,-5 v 0 0 0 h 5 z"
        id="path171-7-5"
        sodipodi:nodetypes="ccccccc"
@@ -1377,7 +1377,7 @@
        y="13"
        id="rect174-5-7" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.14983714"
+       style="fill:#5c89ba;fill-opacity:0.149837"
        d="m 115,18 c 3,0 5,-2 5,-5 h -5 z"
        id="path176-9-6"
        sodipodi:nodetypes="cccc"
@@ -1400,7 +1400,7 @@
        y="13"
        id="rect125-6-6" />
     <path
-       style="fill:#5c89ba;fill-opacity:0.15000001"
+       style="fill:#5c89ba;fill-opacity:0.15"
        d="m 109,18 h 6 v -5 h -6 z"
        id="path127-7-5"
        class="ColorScheme-Highlight" />
