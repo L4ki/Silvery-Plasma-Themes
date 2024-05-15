@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Silvery-SDDM-6
+Description=Silvery-SDDM Login Theme For Plasma 6
+Type=sddm-theme
+Author=l4k1
+Screenshot=preview.png
+License=GPLv3
+Version=1.0
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Theme-Id=Silvery-SDDM-6
+Website=https://github.com/L4ki/Silvery-Plasma-Themes
+Theme-API=2.0
+QtVersion=6
