@@ -63,3 +63,8 @@ Plasma Theme
 ------------
 
 Update widget: actionbutton.svg
+
+SDDM Theme
+----------
+
+Added SDDM Theme For Plasma 6
