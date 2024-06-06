@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 29.05.2024.
+Changelog: 06.06.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Aurorae Themes
 --------------
@@ -62,9 +62,6 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: slider.svg
+Update widget: scrollbar.svg
 
-SDDM Theme
-----------
 
-Added SDDM Theme For Plasma 6
