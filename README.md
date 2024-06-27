@@ -64,4 +64,9 @@ Plasma Theme
 
 Update widget: bar_meter_horizontal.svg
 
+Silvery-SDDM 
+------------
+
+Update: metadata.desktop
+
 
