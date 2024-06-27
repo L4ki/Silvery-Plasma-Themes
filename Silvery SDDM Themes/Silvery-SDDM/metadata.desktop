@@ -5,11 +5,11 @@ Type=sddm-theme
 Author=l4k1
 Screenshot=preview.png
 License=GPLv3
-Version=1.0
+Version=1.1
 MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Theme-Id=Silvery-SDDM
 Theme-API=2.0
 Website=https://github.com/L4ki/Silvery-Plasma-Themes
-
+QtVersion=6
