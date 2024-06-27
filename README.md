@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 20.06.2024.
+Changelog: 27.06.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: main.rc
+Update: hacks.rc
 
 Aurorae Themes
 --------------
@@ -62,6 +62,6 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: background.svg
+Update widget: bar_meter_horizontal.svg
 
 
