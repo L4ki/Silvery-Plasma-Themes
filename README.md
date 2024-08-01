@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 25.07.2024.
+Changelog: 01.08.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk.40
+Update: gtk.3.0
 
 Aurorae Themes
 --------------
@@ -57,12 +57,12 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 48
+Update: actions icons, index.theme
 
 Plasma Theme
 ------------
 
-Update widget: tabbar.svg
+Update widget: tasks.svg
 
 
 
