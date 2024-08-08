@@ -64,6 +64,10 @@ Plasma Theme
 
 Update widget: pager.svg
 
+SDDM Theme For Plasma 5
+----------------------
+
+Update: metadata.desktop
 
 
 
