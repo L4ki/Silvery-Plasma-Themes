@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 15.08.2024.
+Changelog: 23.08.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: mainrc
+Update: hacks.rc
 
 Aurorae Themes
 --------------
@@ -62,7 +62,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: viewitem.svg
+Update widget: containment-controls.svg
 
 SDDM Theme For Plasma 5
 ----------------------
