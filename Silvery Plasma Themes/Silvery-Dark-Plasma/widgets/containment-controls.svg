@@ -6,7 +6,7 @@
    height="120"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
    version="1.0"
    sodipodi:docname="containment-controls.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -21,7 +21,7 @@
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
      id="base"
-     pagecolor="#3a3f47"
+     pagecolor="#2e3238"
      bordercolor="#000000"
      borderopacity="1"
      gridtolerance="10000"
@@ -29,16 +29,16 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.0639873"
-     inkscape:cx="87.967795"
-     inkscape:cy="70.00514"
+     inkscape:zoom="2.873673"
+     inkscape:cx="98.828225"
+     inkscape:cy="94.130405"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="128px"
      height="128px"
      showgrid="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1002"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:snap-nodes="true"
@@ -52,12 +52,16 @@
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="true"
      inkscape:lockguides="true"
-     inkscape:deskcolor="#3a3f47">
+     inkscape:deskcolor="#2e3238">
     <inkscape:grid
        type="xygrid"
        id="grid1231"
        originx="42"
-       originy="-5" />
+       originy="-5"
+       spacingy="1"
+       spacingx="1"
+       units="px"
+       visible="true" />
   </sodipodi:namedview>
   <defs
      id="defs4">
