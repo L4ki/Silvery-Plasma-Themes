@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 06.09.2024.
+Changelog: 13.09.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: styles
+Update: apps.rc
 
 Aurorae Themes
 --------------
@@ -62,7 +62,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: tooltip.svg
+Update widget: listitem.svg
 
 SDDM Theme For Plasma 5
 ----------------------
