@@ -25,7 +25,7 @@
      type="text/css">.ColorScheme-Highlight { color:#565d8a;    stop-color:#565d8a; }
 </style>
   <sodipodi:namedview
-     inkscape:window-height="990"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -36,12 +36,12 @@
      bordercolor="#0100ff"
      pagecolor="#000000"
      id="base"
-     inkscape:zoom="4"
-     inkscape:cx="72.500001"
-     inkscape:cy="81.875001"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="54.093669"
+     inkscape:cy="60.98796"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:current-layer="g2549"
+     inkscape:current-layer="svg2"
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -6339,17 +6339,16 @@
        id="separator1" />
   </g>
   <g
-     id="g2549"
-     transform="translate(0,10)">
+     id="hover-center">
     <g
-       id="hover-center">
+       id="g1">
       <rect
          style="display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.4;marker:none;enable-background:accumulate"
          id="section-center-1"
          width="6"
          height="6"
          x="92.000008"
-         y="19.000044"
+         y="29.000044"
          inkscape:label="#section-center"
          class="ColorScheme-Highlight " />
     </g>
@@ -6517,7 +6516,7 @@
        height="2.99998"
        x="15"
        y="99.000023"
-       transform="matrix(1,0,0,1.6666718,78.000008,-155.0005)" />
+       transform="matrix(1,0,0,1.6666718,78.000008,-164.80055)" />
   </g>
   <g
      id="hover-hint-right-margin"
