@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 20.09.2024.
+Changelog: 27.09.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: gtk-4.0
+Update: gtk-3.0
 
 Aurorae Themes
 --------------
@@ -57,12 +57,12 @@ Update: metadata.desktop
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: actions
 
 Plasma Theme
 ------------
 
-Update widget: plasmoidheading.svg
+Update widget: switch.svg
 
 SDDM Theme For Plasma 5
 ----------------------
