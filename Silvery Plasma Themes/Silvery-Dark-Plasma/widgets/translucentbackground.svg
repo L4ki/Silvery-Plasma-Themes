@@ -7,7 +7,7 @@
    viewBox="0 0 68.000196 165.60022"
    id="svg2"
    version="1.1"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="translucentbackground.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -304,7 +304,7 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#3a3f47"
+     pagecolor="#2e3238"
      bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="1"
@@ -319,7 +319,7 @@
      borderlayer="true"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1000"
+     inkscape:window-height="996"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -329,12 +329,15 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#3a3f47">
+     inkscape:deskcolor="#2e3238">
     <inkscape:grid
        type="xygrid"
        id="grid344"
        originx="-14.999998"
-       originy="-18.999994" />
+       originy="-18.999994"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
