@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 08.11.2024.
+Changelog: 15.11.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: styles
+Update: gtk-4.0
 
 Aurorae Themes
 --------------
@@ -62,7 +62,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: translucentbackground.svg
+Update widget: arrows.svg
 
 SDDM Theme For Plasma 5
 ----------------------
