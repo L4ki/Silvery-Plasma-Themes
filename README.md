@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 13.12.2024.
+Changelog: 20.12.2024.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: hacks.rc
+Update: hacks-dark.rc
 
 Aurorae Themes
 --------------
@@ -62,7 +62,7 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update widget: plot-background.svg
+Update widget: glowbar.svg
 
 SDDM Theme For Plasma 5
 ----------------------
