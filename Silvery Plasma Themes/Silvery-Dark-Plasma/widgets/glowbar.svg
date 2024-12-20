@@ -2,7 +2,7 @@
 <svg
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    width="66"
    height="66"
    sodipodi:docname="glowbar.svg"
@@ -20,7 +20,7 @@
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="998"
      inkscape:window-width="1920"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -32,8 +32,8 @@
      pagecolor="#3a3f47"
      id="base"
      inkscape:zoom="5.9523863"
-     inkscape:cx="6.8039939"
-     inkscape:cy="48.467956"
+     inkscape:cx="6.8879938"
+     inkscape:cy="48.551956"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:current-layer="svg2"
@@ -49,12 +49,15 @@
      inkscape:showpageshadow="true"
      inkscape:lockguides="false"
      inkscape:pagecheckerboard="true"
-     inkscape:deskcolor="#3a3f47">
+     inkscape:deskcolor="#32373e">
     <inkscape:grid
        type="xygrid"
        id="grid314"
        originx="0"
-       originy="0" />
+       originy="0"
+       spacingy="1"
+       spacingx="1"
+       units="px" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
