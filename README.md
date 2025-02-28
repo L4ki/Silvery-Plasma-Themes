@@ -41,18 +41,13 @@ _____________________________________
 
 
 
-Changelog: 21.02.2025.
+Changelog: 28.02.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: apps.rc
-
-Aurorae Themes
---------------
-
-Update: metadata.desktop
+Update: styles
 
 Icons
 -----
@@ -61,11 +56,6 @@ Added new icons: apps 48
 
 Plasma Theme
 ------------
-
-Update: metadata.desktop
-
-SDDM Theme For Plasma 5
-----------------------
 
 Update: metadata.desktop
 
