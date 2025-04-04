@@ -52,7 +52,7 @@ Update: apps.rc
 Icons
 -----
 
-Added new icons: apps 48
+Added new icons: apps 22
 
 Plasma Theme
 ------------
