@@ -41,18 +41,18 @@ _____________________________________
 
 
 
-Changelog: 18.04.2025.
+Changelog: 25.04.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: styles
+Update: gtk-3.0
 
 Icons
 -----
 
-Update icons: categories 22
+Added new icons: apps 48
 
 Plasma Theme
 ------------
