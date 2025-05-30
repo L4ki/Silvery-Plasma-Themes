@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 23.05.2025.
+Changelog: 30.05.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: hacks-dark.rc
+Update: apps.rc
 
 Icons
 -----
