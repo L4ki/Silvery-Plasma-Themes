@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 30.05.2025.
+Changelog: 06.06.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: gtk-4.0
 
 Icons
 -----
@@ -57,7 +57,6 @@ Added new icons: apps 48
 Plasma Theme
 ------------
 
-Update: metadata.desktop
-
+Update widget: menubaritem.svg
 
 
