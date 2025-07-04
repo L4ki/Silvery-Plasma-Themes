@@ -41,13 +41,13 @@ _____________________________________
 
 
 
-Changelog: 27.06.2025.
+Changelog: 04.07.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: main.rc
+Update: gtkrc
 
 Icons
 -----
