@@ -40,13 +40,13 @@ Screenshots "Silvery-Dark-Plasma":
 _____________________________________
 
 
-Changelog: 25.07.2025.
+Changelog: 01.08.2025.
 ----------------------
 
 GTK Theme
 ---------
 
-Update: apps.rc
+Update: gtk-4.0
 
 Icons
 -----
