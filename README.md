@@ -45,7 +45,7 @@ Changelog: 22.08.2025.
 GTK Theme
 ---------
 
-Update: main.rc
+Update: gtkrc
 
 Icons
 -----
